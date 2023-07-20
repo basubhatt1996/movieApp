@@ -1,6 +1,6 @@
 # movieApp
 # A movie and tv Show searching app
-# Dependencies:
+# Dependencies: copy this into your package.json file and then run npm init -y
     "@reduxjs/toolkit": "^1.9.1",
     "axios": "^1.2.2",
     "dayjs": "^1.11.7",
